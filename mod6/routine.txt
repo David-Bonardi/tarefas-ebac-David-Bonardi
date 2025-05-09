@@ -1,0 +1,16 @@
+INÍCIO
+     1-Acordo, abro os olhos.
+     2-Vou até o banheiro escovo os dentes e lavo o rosto.
+     2-Abro o armário e pego o pacote de café.
+     3-Coloco o pó de café dentro do filtro da cafeteira.
+     4-Pego a àgua e coloco no compartimento da cafeteira.
+     5-Starto a cafeteira apertando o botão.
+     6-Se(Tiver pão)
+     		1-Passo manteiga no pão.
+     		2-Como o pão.
+     7-Se não
+                1-Vou na padaria comprar pão.
+                2-Volto para casa.
+     8-Pego meu café e vou para o PC.
+     9-Tomo meu café em frente ao PC.
+FIM
